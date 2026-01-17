@@ -46,7 +46,6 @@
 
 ## Results
 - The table below shows accuracy (%) for each model–sampling combination.
-- **MiSj represents accuracy of Model i using Sampling technique j.**
 
 ![Final Result Table](results.png)
 
